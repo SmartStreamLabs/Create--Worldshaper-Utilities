@@ -1,0 +1,17 @@
+{
+  "item.smart_worldshaper.smart_worldshaper": "Worldshaper",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.behaviour1": "_Targeted block_ will become the _material_ placed by the shaper.",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.behaviour2": "Applies currently selected _Brush_ and _Tool_ at the targeted location.",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.behaviour3": "Opens the _Configuration Interface_",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.condition1": "L-Click at Block",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.condition2": "R-Click at Block",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.condition3": "R-Click while Sneaking",
+  "item.smart_worldshaper.smart_worldshaper.tooltip.summary": "Tool for large-scale _landscaping_ from a distance.",
+  "gui.smart_worldshaper.drops_on_clear.enabled": "Drops: ON",
+  "gui.smart_worldshaper.drops_on_clear.disabled": "Drops: OFF",
+  "message.smart_worldshaper.not_enough_blocks": "You do not have enough blocks in your inventory.",
+  "message.smart_worldshaper.cleared_with_drops": "Worldshaper cleared %s blocks and dropped %s items.",
+  "message.smart_worldshaper.cleared_without_drops": "Worldshaper cleared %s blocks. Drops are disabled.",
+  "message.smart_worldshaper.drop_limit": "Worldshaper drop limit reached; additional blocks were cleared without drops.",
+  "message.smart_worldshaper.action_limit": "Worldshaper action limit reached; only %s blocks were processed."
+}

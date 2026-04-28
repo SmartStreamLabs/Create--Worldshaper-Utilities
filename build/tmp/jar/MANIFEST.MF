@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: smart_worldshaper
+Specification-Vendor: SmartStreamLabs
+Specification-Version: 1
+Implementation-Title: Worldshaper Utilities
+Implementation-Version: 1.0.0
+Implementation-Vendor: SmartStreamLabs
+

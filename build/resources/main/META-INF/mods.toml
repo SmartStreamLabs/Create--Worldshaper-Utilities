@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+modId = "smart_worldshaper"
+version = "1.0.0"
+displayName = "Worldshaper Utilities"
+authors = "SmartStreamLabs"
+logoFile = "assets/smart_worldshaper/icon.png"
+description = '''Adds an enhanced, inventory-aware Worldshaper utility for Create.'''
+
+[[dependencies.smart_worldshaper]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.4.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.smart_worldshaper]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.smart_worldshaper]]
+modId = "create"
+mandatory = true
+versionRange = "[6.0.8,6.1.0)"
+ordering = "AFTER"
+side = "BOTH"
